@@ -58,3 +58,18 @@ samples, guidance on mobile development, and a full API reference.
 <picture>  
 <img src="https://github.com/FaresSallam75/delivery_app/assets/115936044/67ef0738-165c-46d7-9f48-011df1e21ea2" width="200px" height="400px" /> 
 </picture>
+<picture>  
+<img src="https://github.com/FaresSallam75/delivery_app/assets/115936044/9a77552b-409b-4fdc-b471-4e4f683046cc" width="200px" height="400px" /> 
+</picture>
+<picture>  
+<img src="https://github.com/FaresSallam75/delivery_app/assets/115936044/9521e6e3-f988-4c6d-9990-ab69a777f2bd" width="200px" height="400px" /> 
+</picture>
+<picture>  
+<img src="https://github.com/FaresSallam75/delivery_app/assets/115936044/8fc59b57-8459-44dd-b3c2-f2864dd4a32e" width="200px" height="400px" /> 
+</picture>
+<picture>  
+<img src="https://github.com/FaresSallam75/delivery_app/assets/115936044/0245fd5f-e5fc-4526-b69f-ec8c85327655" width="200px" height="400px" /> 
+</picture>
+<picture>  
+<img src="https://github.com/FaresSallam75/delivery_app/assets/115936044/4a0b3a59-a6af-4b31-8179-859030f68cb5" width="200px" height="400px" /> 
+</picture>
